@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Kirtan from Surat<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Bsc.IT<br>- ⚡ In my free time i'm working on my Web Development skill</p>
+<p align="left">I'm Yogesh from Surat<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning Bsc.IT<br>- ⚡ In my free time i'm working on my Web Development skill</p>
 
 ###
 
