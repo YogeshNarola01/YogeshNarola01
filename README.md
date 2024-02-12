@@ -1,10 +1,6 @@
-<div align="center">
-  <img height="150" src="https://images.app.goo.gl/fjdV15jJ7qvqTx5f7"/>
-</div>
+<img align="center" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*h-NkBHD8GO-G6-d2.gif" />
 
-###
 
-<div align="center">
   <a href="https://www.linkedin.com/in/yogesh-narola-5622bb299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -21,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1>hey there 👋</h1>
 
 ###
 
