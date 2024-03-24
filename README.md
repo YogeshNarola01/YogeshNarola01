@@ -1,3 +1,4 @@
+<center>
 <img align="center" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*h-NkBHD8GO-G6-d2.gif" />
 
 
@@ -60,3 +61,4 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+</center>
